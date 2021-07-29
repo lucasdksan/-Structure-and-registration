@@ -10,12 +10,12 @@ Outro ponto sobre esse trabalho é relacionar projetos com o usuário registrado
 
 Esse projeto possui uma divisão de pasta padrão:
 
-[ ] app
-[ ] config
-[ ] database
-[ ] modules
-[ ] resources
-[ ] index.js
+* [ ] app
+* [ ] config
+* [ ] database
+* [ ] modules
+* [ ] resources
+* [ ] index.js
 
 ### APP:
 
